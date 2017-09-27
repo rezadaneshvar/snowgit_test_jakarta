@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="GIT test requests" language="en" table="x_162367_git_test_requests">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>GIT test requests</label>
+            <language>en</language>
+            <name>x_162367_git_test_requests</name>
+            <plural>GIT test requests</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-27 05:04:05</sys_created_on>
+            <sys_id>1136320cdb2103004e22fcdfbf9619d0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>GIT test requests</sys_name>
+            <sys_package display_value="GIT test - Jakarta" source="x_162367_git_test">2c057e00db2103004e22fcdfbf96191f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="GIT test - Jakarta">2c057e00db2103004e22fcdfbf96191f</sys_scope>
+            <sys_update_name>sys_documentation_x_162367_git_test_requests__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-27 05:04:05</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
